@@ -1,2 +1,2 @@
-# odoo9-vertical-medial
+# odoo10
 vertical-medical
